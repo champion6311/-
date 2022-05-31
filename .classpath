@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="学生选课管理系统/CourseSys/src"/>
+	<classpathentry kind="lib" path="__MACOSX/学生选课管理系统/CourseSys/lib/._AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/学生选课管理系统/CourseSys/lib/._mysql-connector-java-8.0.26.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/学生选课管理系统/CourseSys/lib/._swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="学生选课管理系统/CourseSys/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="学生选课管理系统/CourseSys/lib/mysql-connector-java-8.0.26.jar"/>
+	<classpathentry kind="lib" path="学生选课管理系统/CourseSys/lib/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="output" path="学生选课管理系统/CourseSys/bin"/>
+</classpath>
